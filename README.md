@@ -20,3 +20,5 @@ Future improvements include adding real images, expanding the dataset, and provi
 
 ## Why it matters
 Multilingual image–text retrieval enables inclusive search experiences for speakers of different languages and showcases the potential of cross-lingual representation learning.
+
+#⚙️ Parts of this prototype were assisted using GitHub Copilot/Codex under my direction.
